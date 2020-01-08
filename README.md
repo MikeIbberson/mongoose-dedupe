@@ -1,6 +1,6 @@
 <h1>🦄 Mongoose dedupe</h1>
 <p>
-  <img src="https://github.com/MikeIbberson/mongoose-field-lock/workflows/Node%20CI/badge.svg" alt="Status" />
+  <img src="https://github.com/MikeIbberson/mongoose-dedupe/workflows/Node%20CI/badge.svg" alt="Status" />
 </p>
 <p>Like uniqueness checking but on steroids. Check for individually unique fields, collectively unique queries and unique subdocument values all from within the mongoose Schema.</p>
 
