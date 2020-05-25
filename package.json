@@ -9,7 +9,7 @@
     "rootDir": "lib"
   },
   "scripts": {
-    "test": "jest --collectCoverage",
+    "test": "jest --detectOpenHandles --collectCoverage --forceExit --runInBand",
     "lint": "eslint lib/* --fix"
   },
   "dependencies": {
